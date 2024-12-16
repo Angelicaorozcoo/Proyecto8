@@ -30,3 +30,35 @@ Diseño responsivo:
 
 Se utilizan buenas prácticas de CSS para asegurar que el sitio se vea bien en diferentes tamaños de pantalla.
 
+##Tecnologías Utilizadas
+
+HTML5: Para la estructura del sitio web.
+
+CSS3: Para los estilos visuales y el diseño responsivo.
+
+Google Fonts: Fuente utilizada: Poppins.
+
+##Instrucciones para Usar el Proyecto
+
+Clonar el repositorio:
+
+git clone <URL_DEL_REPOSITORIO>
+
+Abrir el archivo HTML:
+Navega al directorio del proyecto y abre el archivo index.html en tu navegador favorito.
+
+Agregar nuevas imágenes:
+Coloca las imágenes adicionales en la carpeta img/ y actualiza las rutas en el archivo index.html según corresponda.
+
+##Mejoras Futuras
+Agregar más secciones para incluir información sobre otras especies animales.
+
+Implementar funcionalidad de búsqueda usando JavaScript.
+
+Mejorar la accesibilidad del sitio con mejores etiquetas ARIA.
+
+Adaptar un sistema de comentarios para los usuarios.
+##Autor
+Angelica Jazmín Romero Orozco
+
+Este proyecto fue desarrollado para inspirar y compartir amor por los animales
